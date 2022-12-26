@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @monesh48
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Java,C
 - 💞️ I’m looking to collaborate on my application for android
-- 📫 How to reach me vvrmmd48@gmail.com
+- 📫 How to reach me vvrmm48@gmail.com
 
 
 <!---
